@@ -1,6 +1,6 @@
 {
-  "name": "jsdom",
-  "version": "16.4.0",
+  "name": "@1nd/jsdom",
+  "version": "16.5.0-beta.1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
